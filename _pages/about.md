@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /publications/
 ---
 
 Hi! Welcome to Xinyin Ma(马欣尹)'s website :laughing:!  
