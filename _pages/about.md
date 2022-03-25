@@ -17,7 +17,7 @@ Education
 * B.S. in Software Engineering, Chu Kochen Honors College, Zhejiang University, 2015 - 2019
 
 Some of the scholarships I have earned:
-* As a master student: Outstanding Graduates(2022), Tecent Scholarship(2021), CETC28 Scholarship(2021), Huawei Elite Scholarship(2020), Shenzhen Stock Exchange Scholarship(2020), Award of Honor for Graduate(2021, 2020)
+* As a master student: Outstanding Graduate(2022), Tecent Scholarship(2021), CETC28 Scholarship(2021), Huawei Elite Scholarship(2020), Shenzhen Stock Exchange Scholarship(2020), Award of Honor for Graduate(2021, 2020)
 * As a bachelor student: Outstanding Engineer Scholarship (2018), Outstanding Student of Zhejiang University (2018, 2017, 2016),
 Second-Class Academic Scholarship of Zhejiang University (2017, 2016), Second Class Scholarship of National Talent Training Base (2017), CASC Second Class Scholarship (2016)
 
@@ -30,6 +30,4 @@ Internship
 * Netease Thunderfire UX, Data Analyst Intern, 2018.07 - 2018.11
   - mentor: [Lei Xia](https://schedule.gdconf.com/speaker/xia-lei/61187)
   - Analyze user logs in Nishuihan using Hive/Impala. Migrate the data to support immediate querying. Design an automated data flow management system based on Airflow.
-
-
 
