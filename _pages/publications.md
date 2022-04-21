@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
 {% include base_path %}
 
 1. Prompting to distill: Boosting Data-Free Knowledge Distillation via Reinforced Prompt, IJCAI2022(Oral, short presentation). The paper and the code will be released soon.  
