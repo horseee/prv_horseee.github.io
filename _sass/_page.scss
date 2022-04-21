@@ -399,3 +399,71 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   customized layout
+   ========================================================================== */
+a {
+  color: #020202;
+}
+
+a:visited {
+  color: #020202;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* 使得引用texbib自动换行 */
+.pre-white-space {
+  white-space: pre;
+}
+
+.bibref {
+  margin-top: 10px;
+  margin-left: 10px;
+  display: none;
+  /* font-size: 14px; */
+  font-family: monospace;
+}
+
+.link2 {
+  text-decoration: none;
+  display: inline;
+  margin-right: 5px;
+}
+
+dd {
+  margin-left: 0;
+}
+
+.ptitle{
+  /*color: #000000;*/
+  font-weight: bold;
+}
+
+.publication {
+  border-left: 3px #808080 solid;
+}
+
+.description{
+  margin-left: 20px;
+}
+
+.figure{
+  float: right;
+  border-style:solid;
+  border-width: 1px;
+  
+}
+
+.figure img{
+  /* width:150px; */
+  /* height: 80px; */
+  height: 85px;
+}
