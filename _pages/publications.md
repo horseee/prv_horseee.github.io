@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-1. Prompting to distill: Boosting Data-Free Knowledge Distillation via Reinforced Prompt, IJCAI2022(Oral, short presentation). The paper and the code will be released soon.
-  **Xinyin Ma**, Xinchao Wang, Gongfan Fang, Yongliang Shen, Weiming Lu
+1. Prompting to distill: Boosting Data-Free Knowledge Distillation via Reinforced Prompt, IJCAI2022(Oral, short presentation). The paper and the code will be released soon.  
+  **Xinyin Ma**, Xinchao Wang, Gongfan Fang, Yongliang Shen, Weiming Lu  
 2. Adversarial Self-Supervised Data-Free Distillation for Text Classification, EMNLP2020, [[pdf]](https://arxiv.org/abs/2010.04883)  
   **Xinyin Ma**, Yongliang Shen, Gongfan Fang, Chen Chen, Chenghao Jia, Weiming Lu
 3. MuVER: Improving First-Stage Entity Retrieval with Multi-View Entity Representations, EMNLP2021(Short), [[pdf]](https://arxiv.org/abs/2109.05716)  
