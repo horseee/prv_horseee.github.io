@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+<script type="text/javascript" src="../assets/js/jquery-3.6.0.min.js"></script>
+
 <div class="publication">
     <dl class="description">
         <dt class="ptitle">Prompting to distill: Boosting Data-Free Knowledge Distillation via Reinforced Prompt</dt>
