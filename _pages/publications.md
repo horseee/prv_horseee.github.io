@@ -16,8 +16,8 @@ author_profile: true
 <div class="publication">
     <dl class="description">
         <dt class="ptitle">Prompting to distill: Boosting Data-Free Knowledge Distillation via Reinforced Prompt</dt>
-        <dd><b>Xinyin Ma</b>, Xinchao Wang, Gongfan Fang, Yongliang Shen, Weiming Lu <br></dd>
-        <dd> The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence (IJCAI-ECAI 22), Oral (short presentation)</dd>
+        <dd>- <b>Xinyin Ma</b>, Xinchao Wang, Gongfan Fang, Yongliang Shen, Weiming Lu <br></dd>
+        <dd>- The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence (IJCAI-ECAI 22), Oral (short presentation)</dd>
         <dd>
             [<a href="" target="_blank">paper</a>]
             [<a href="" target="_blank">code</a>]
@@ -38,8 +38,8 @@ author_profile: true
 <div class="publication">
     <dl class="description">
         <dt class="ptitle">MuVER: Improving First-Stage Entity Retrieval with Multi-View Entity Representations</dt>
-        <dd><b>Xinyin Ma</b>, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang, Weiming Lu <br></dd>
-        <dd> The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021, short paper)</dd>
+        <dd>- <b>Xinyin Ma</b>, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang, Weiming Lu <br></dd>
+        <dd>- The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021, short paper)</dd>
         <dd>
             [<a href="https://aclanthology.org/2021.emnlp-main.205.pdf" target="_blank">paper</a>]
             [<a href="https://github.com/alibaba-nlp/muver" target="_blank">code</a>]
@@ -78,8 +78,8 @@ author_profile: true
 <div class="publication">
     <dl class="description">
         <dt class="ptitle">Adversarial Self-Supervised Data-Free Distillation for Text Classification</dt>
-        <dd><b>Xinyin Ma</b>, Yongliang Shen, Gongfan Fang, Chen Chen, Chenghao Jia, Weiming Lu <br></dd>
-        <dd> The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)</dd>
+        <dd>- <b>Xinyin Ma</b>, Yongliang Shen, Gongfan Fang, Chen Chen, Chenghao Jia, Weiming Lu <br></dd>
+        <dd>- The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)</dd>
         <dd>
             [<a href="https://aclanthology.org/2020.emnlp-main.499.pdf" target="_blank">paper</a>]
             [<a href="https://slideslive.com/38938706/adversarial-selfsupervised-datafree-distillation-for-text-classification" target="_blank">video</a>]
@@ -117,8 +117,8 @@ author_profile: true
 <div class="publication">
     <dl class="description">
         <dt class="ptitle">Locate and Label: A Two-stage Identifier for Nested Named Entity Recognition</dt>
-        <dd> Yongliang Shen, <b>Xinyin Ma</b>, Zeqi Tan, Shuai Zhang, Wen Wang, Weiming Lu <br></dd>
-        <dd> The 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL 2021)</dd>
+        <dd>- Yongliang Shen, <b>Xinyin Ma</b>, Zeqi Tan, Shuai Zhang, Wen Wang, Weiming Lu <br></dd>
+        <dd>- The 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL 2021)</dd>
         <dd>
             [<a href="https://aclanthology.org/2021.acl-long.216.pdf" target="_blank">paper</a>]
             [<a href="https://github.com/tricktreat/locate-and-label" target="_blank">code</a>]
@@ -156,8 +156,8 @@ author_profile: true
 <div class="publication">
     <dl class="description">
         <dt class="ptitle">A Trigger-Sense Memory Flow Framework for Joint Entity and Relation Extraction</dt>
-        <dd> Yongliang Shen, <b>Xinyin Ma</b>, Yechun Tang, Weiming Lu <br></dd>
-        <dd> The Web Conference 2021 (WWW 2021)</dd>
+        <dd>- Yongliang Shen, <b>Xinyin Ma</b>, Yechun Tang, Weiming Lu <br></dd>
+        <dd>- The Web Conference 2021 (WWW 2021)</dd>
         <dd>
             [<a href="https://dl.acm.org/doi/abs/10.1145/3442381.3449895" target="_blank">paper</a>]
             [<a href="https://github.com/tricktreat/trimf" target="_blank">code</a>]
@@ -193,8 +193,8 @@ author_profile: true
 <div class="publication">
     <dl class="description">
         <dt class="ptitle">Multi-hop Reading Comprehension across Documents with Path-based Graph Convolutional Network</dt>
-        <dd> Zeyun Tang, Yongliang Shen, <b>Xinyin Ma</b>, Wei Xu, Jiale Yu, Weiming Lu <br></dd>
-        <dd> The Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI 2020)</dd>
+        <dd>- Zeyun Tang, Yongliang Shen, <b>Xinyin Ma</b>, Wei Xu, Jiale Yu, Weiming Lu <br></dd>
+        <dd>- The Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI 2020)</dd>
         <dd>
             [<a href="https://www.ijcai.org/proceedings/2020/0540.pdf" target="_blank">paper</a>]
             [<a href="https://www.ijcai.org/proceedings/2020/video/26636" target="_blank">video</a>]
@@ -225,12 +225,11 @@ author_profile: true
     </dl>
 </div>
 
-
 <div class="publication">
     <dl class="description">
         <dt class="ptitle">Enrich cross-lingual entity links for online wikis via multi-modal semantic matching</dt>
-        <dd> Weiming Lu, Peng Wang, <b>Xinyin Ma</b>, Wei Xu, Chen Chen <br></dd>
-        <dd> Information Processing & Management (IPM 2020)</dd>
+        <dd>- Weiming Lu, Peng Wang, <b>Xinyin Ma</b>, Wei Xu, Chen Chen <br></dd>
+        <dd>- Information Processing & Management (IPM 2020)</dd>
         <dd>
             [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457319309094" target="_blank">paper</a>]
             <div class="link2">[<a class="fakelink" onclick="$(this).siblings('.bibref').slideToggle()">bibtex</a>]
