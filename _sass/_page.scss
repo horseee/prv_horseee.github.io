@@ -472,6 +472,14 @@ dd {
   height: 85px;
 }
 
-.plink{
+.plink a{
+  color: darkgray;
+}
+
+.plink a:link{
   color: cadetblue;
+}
+
+.plink a:visited{
+  color:lightslategray;
 }

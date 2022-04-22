@@ -19,15 +19,15 @@ author_profile: true
         <dd>- <b>Xinyin Ma</b>, Xinchao Wang, Gongfan Fang, Yongliang Shen, Weiming Lu <br></dd>
         <dd>- The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence (IJCAI-ECAI 22), Oral (short presentation)</dd>
         <dd>
-            [<a class="plink" href="" target="_blank">paper</a>]
+            [<a class="plink" href="" target="_blank"><text>paper</text></a>]
             [<a class="plink" href="" target="_blank">code</a>]
             <div class="link2">
                 [<a class="fakelink plink" onclick="$(this).siblings('.abstract').slideToggle()">abstract</a>]
                 <div class="abstract"  style="overflow: hidden; display: none;">  
                     <p> Data-free knowledge distillation (DFKD) conducts knowledge distillation via eliminating the dependence of original training data, and has recently achieved impressive results in accelerating pre-trained language models. At the heart of DFKD is toreconstruct a synthetic dataset by invertingthe parameters of the uncompressed model. Prior DFKD approaches, however, havelargely relied on hand-crafted priors of the target data distribution for the reconstruction, which can be inevitably biased and often incompetent to capture the intrinsic distributions. To address this problem, we propose a prompt-based method, termed as PromptDFD, that allows us to take advantage of learned language priors, which effectively harmonizes the synthetic sentences to be semantically and grammatically correct. Specifically, PromptDFD leverages a pre-trained generative model to provide language priors and introduces a reinforced topic prompter to control data synthesis, making the generated samples thematically relevant and  semantically plausible, and thus friendly to downstream tasks. As shown in our experiments, the proposed method substantially improves the synthesis quality and achieves considerable improvements on distillation performance. In some cases, PromptDFD even gives rise to results on par with those from the data-driven knowledge distillation with access to the original training data. </p>
                 </div>
-                (Note: The paper and the code will be released soon) 
             </div> 
+            (Note: The paper and the code will be released soon) 
         </dd>
     </dl>
 </div>
@@ -38,9 +38,10 @@ author_profile: true
         <dd>- <b>Xinyin Ma</b>, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang, Weiming Lu <br></dd>
         <dd>- The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021, short paper)</dd>
         <dd>
-            [<a href="https://aclanthology.org/2021.emnlp-main.205.pdf" target="_blank">paper</a>]
-            [<a href="https://github.com/alibaba-nlp/muver" target="_blank">code</a>] 
-            <div class="link2">[<a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()">abstract</a>]
+            [<a class="plink" href="https://aclanthology.org/2021.emnlp-main.205.pdf" target="_blank">paper</a>]
+            [<a class="plink" href="https://github.com/alibaba-nlp/muver" target="_blank">code</a>] 
+            <div class="link2">
+                [<a class="fakelink plink" onclick="$(this).siblings('.abstract').slideToggle()">abstract</a>]
                 <div class="abstract"  style="overflow: hidden; display: none;">  
                     <p> Entity retrieval, which aims at disambiguating mentions to canonical entities from massive KBs, is essential for many tasks in natural language processing. Recent progress in entity retrieval shows that the dual-encoder structure is a powerful and efficient framework to nominate candidates if entities are only identified by descriptions. However, they ignore the property that meanings of entity mentions diverge in different contexts and are related to various portions of descriptions, which are treated equally in previous works. In this work, we propose Multi-View Entity Representations (MuVER), a novel approach for entity retrieval that constructs multi-view representations for entity descriptions and approximates the optimal view for mentions via a heuristic searching method. Our method achieves the state-of-the-art performance on ZESHEL and improves the quality of candidates on three standard Entity Linking datasets. </p>
                 </div>
