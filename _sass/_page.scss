@@ -459,6 +459,7 @@ dd {
   color: gray;
   font-size: 16px;
 }
+
 .figure{
   float: right;
   border-style:solid;
@@ -480,6 +481,6 @@ a.plink:link{
   color: cadetblue;
 }
 
-a.plink:visited{
-  color:lightslategray;
+a.fakelink{
+  color: cadetblue;
 }
