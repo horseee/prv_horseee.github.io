@@ -474,13 +474,13 @@ dd {
 }
 
 a.plink{
-  color: darkgray;
-}
-
-a.plink:link{
   color: cadetblue;
 }
 
 a.fakelink{
   color: cadetblue;
+}
+
+a.unknownlink{
+  color: darkgray;
 }
