@@ -19,8 +19,8 @@ author_profile: true
         <dd>- <b>Xinyin Ma</b>, Xinchao Wang, Gongfan Fang, Yongliang Shen, Weiming Lu <br></dd>
         <dd>- The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence (IJCAI-ECAI 22), Oral (short presentation)</dd>
         <dd>
-            [<a class="plink" target="_blank">paper</a>]
-            [<a class="plink" target="_blank">code</a>]
+            [<a class="unknownlink" target="_blank">paper</a>]
+            [<a class="unknownlink" target="_blank">code</a>]
             <div class="link2">
                 [<a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()">abstract</a>]
                 <div class="abstract"  style="overflow: hidden; display: none;">  
