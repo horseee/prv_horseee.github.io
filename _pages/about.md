@@ -9,12 +9,19 @@ redirect_from:
 ---
 
 Hi! Welcome to Xinyin Ma(马欣尹)'s website :laughing:!  
-I'm currently a master student in Zhejiang University and I also obtained my bachelor degree from Chu Kochen Honors College, Zhejiang University. My major is computer science and is currently conducting some research in Natural Language Processing and Model Compression, advised by [Weiming Lu](https://scholar.google.co.id/citations?hl=no&user=H42slBQAAAAJ). 
+I have graduted from Zhejiang University and obtained my master/bachelor degree. My major is computer science and is currently conducting some research in Natural Language Processing and Model Compression, advised by [Dr.Weiming Lu](https://scholar.google.co.id/citations?hl=no&user=H42slBQAAAAJ). I will join [NUS LV lab](http://www.lv-nus.org/) in August 2022 under the supervision of  [Dr.Xinchao Wang](https://sites.google.com/site/sitexinchaowang/) and also [Prof.Haizhou Li](https://cde.nus.edu.sg/ece/haizhou-li/)!
+
+
+Updates
+=====
+* 2022.4.21: One paper accepted by IJCAI2022
+* 2022.3.31: Obtain my master degree from ZJU!
+
 
 Education
 =====
-* M.S. in Computer Science, College of Computer Science and Technology, Zhejiang University, 2019 - 2022
-* B.S. in Software Engineering, Chu Kochen Honors College, Zhejiang University, 2015 - 2019
+* M.S. in Computer Science, College of Computer Science and Technology, Zhejiang University, 2019.8 - 2022.3
+* B.S. in Software Engineering, Chu Kochen Honors College, Zhejiang University, 2015.9 - 2019.6
 
 Some of the scholarships I have earned:
 * As a master student: Outstanding Graduate(2022), Tecent Scholarship(2021), CETC28 Scholarship(2021), Huawei Elite Scholarship(2020), Shenzhen Stock Exchange Scholarship(2020), Award of Honor for Graduate(2021, 2020)
