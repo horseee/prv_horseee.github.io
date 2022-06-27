@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi! Welcome to Xinyin Ma(马欣尹)'s website :laughing:!  
-I have graduted from Zhejiang University and obtained my master/bachelor degree. My major is computer science and is currently conducting some research in Natural Language Processing and Model Compression, advised by [Dr.Weiming Lu](https://scholar.google.co.id/citations?hl=no&user=H42slBQAAAAJ). I will join [NUS LV lab](http://www.lv-nus.org/) in August 2022 under the supervision of  [Dr.Xinchao Wang](https://sites.google.com/site/sitexinchaowang/) and also [Prof.Haizhou Li](https://cde.nus.edu.sg/ece/haizhou-li/)!
+I have graduted from Zhejiang University and obtained my master/bachelor degree, advised by [Dr.Weiming Lu](https://scholar.google.co.id/citations?hl=no&user=H42slBQAAAAJ). My major is computer science and is currently conducting some research in Natural Language Processing and Model Compression. I will join [NUS LV lab](http://www.lv-nus.org/) in August 2022 under the supervision of  [Dr.Xinchao Wang](https://sites.google.com/site/sitexinchaowang/) and also [Prof.Haizhou Li](https://cde.nus.edu.sg/ece/haizhou-li/)!
 
 
 Updates
