@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 Hi! Welcome to Xinyin Ma(马欣尹)'s website :laughing:!  
-I graduted from [DCD Lab @ ZJU]() and obtained my master/bachelor degree, advised by [Prof.Weiming Lu](https://scholar.google.co.id/citations?hl=no&user=H42slBQAAAAJ). My major is computer science and is currently conducting some research in Natural Language Processing and Model Compression. I will join [Language and Vision Lab @ NUS](http://www.lv-nus.org/) as a Ph.D student in August 2022, under the supervision of  [Prof.Xinchao Wang](https://sites.google.com/site/sitexinchaowang/) and also [Prof.Haizhou Li](https://cde.nus.edu.sg/ece/haizhou-li/)!
+I am currently a Ph.D student in [Language and Vision Lab @ NUS](http://www.lv-nus.org/) from August 2022, under the supervision of  [Prof.Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)!
+I graduted from [DCD Lab @ ZJU]() and obtained my master/bachelor degree, advised by [Prof.Weiming Lu](https://scholar.google.co.id/citations?hl=no&user=H42slBQAAAAJ). My major is computer science and is currently conducting some research in Natural Language Processing and Model Compression. 
 
 
 Updates
