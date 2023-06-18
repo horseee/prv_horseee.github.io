@@ -18,7 +18,7 @@ author_profile: true
     <div class='pub-image'>
         <div>
             <img src="https://img.shields.io/badge/Preprint-Arxiv-blue" class="label">
-            <img src='https://horseee.github.io/images/llm-pruner.png' width="65%" class="figure">
+            <img src='https://horseee.github.io/images/llm-pruner.png' width="65%" class="fig">
         </div>
     </div>
     <dl class="pub-description">
@@ -41,7 +41,7 @@ author_profile: true
     <div class='pub-image'>
         <div>
             <img src="https://img.shields.io/badge/Conference-CVPR'23-blue" class="label">
-            <img src='https://horseee.github.io/images/Depgraph.png' width="100%" class="figure">
+            <img src='https://horseee.github.io/images/Depgraph.png' width="100%" class="fig">
         </div>
     </div>  
     <dl class="pub-description">
@@ -65,7 +65,7 @@ author_profile: true
     <div class='pub-image'>
         <div>
             <img src="https://img.shields.io/badge/Conference-IJCAI'22-blue" class="label">
-            <img src='https://horseee.github.io/images/PromptKD.png' width="100%" class="figure">
+            <img src='https://horseee.github.io/images/PromptKD.png' width="100%" class="fig">
         </div>
     </div>  
     <dl class="pub-description">
@@ -88,7 +88,7 @@ author_profile: true
     <div class='pub-image'>
         <div>
             <img src="https://img.shields.io/badge/Conference-EMNLP'21-blue" class="label">
-            <img src='https://horseee.github.io/images/MuVER.png' width="100%" class="figure">
+            <img src='https://horseee.github.io/images/MuVER.png' width="100%" class="fig">
         </div>
     </div>  
     <dl class="pub-description">
@@ -112,7 +112,7 @@ author_profile: true
     <div class='pub-image'>
         <div>
             <img src="https://img.shields.io/badge/Conference-EMNLP'20-blue" class="label">
-            <img src='https://horseee.github.io/images/ASDFD.png' width="100%" class="figure">
+            <img src='https://horseee.github.io/images/ASDFD.png' width="100%" class="fig">
         </div>
     </div>  
     <dl class="pub-description">
@@ -136,7 +136,7 @@ author_profile: true
     <div class='pub-image'>
         <div>
             <img src="https://img.shields.io/badge/Conference-ACL'21-blue" class="label">
-            <img src='https://horseee.github.io/images/LocateLabel.png' width="100%" class="figure">
+            <img src='https://horseee.github.io/images/LocateLabel.png' width="100%" class="fig">
         </div>
     </div>  
     <dl class="pub-description">
@@ -160,7 +160,7 @@ author_profile: true
     <div class='pub-image'>
         <div>
             <img src="https://img.shields.io/badge/Conference-WWW'21-blue" class="label">
-            <img src='https://horseee.github.io/images/Trigger.png' width="100%" class="figure">
+            <img src='https://horseee.github.io/images/Trigger.png' width="100%" class="fig">
         </div>
     </div>  
     <dl class="pub-description">
@@ -184,7 +184,7 @@ author_profile: true
     <div class='pub-image'>
         <div>
             <img src="https://img.shields.io/badge/Conference-IJCAI'20-blue" class="label">
-            <img src='https://horseee.github.io/images/Multihop.png' width="100%" class="figure">
+            <img src='https://horseee.github.io/images/Multihop.png' width="100%" class="fig">
         </div>
     </div>  
     <dl class="pub-description">
@@ -208,7 +208,7 @@ author_profile: true
     <div class='pub-image'>
         <div>
             <img src="https://img.shields.io/badge/Conference-IPM'20-blue" class="label">
-            <img src='https://horseee.github.io/images/entitylink.png' width="100%" class="figure">
+            <img src='https://horseee.github.io/images/entitylink.png' width="100%" class="fig">
         </div>
     </div>  
     <dl class="pub-description">
