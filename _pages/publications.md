@@ -15,6 +15,42 @@ author_profile: true
 
 <div class="publication">
     <dl class="description">
+        <dt class="ptitle"></dt>
+        <dd>- <b>Xinyin Ma</b>, Gongfan Fang, Xinchao Wang<br></dd>
+        <dd>- </dd>
+        <dd>
+            [<a class="plink" href="https://arxiv.org/abs/2305.11627" target="_blank">paper</a>]
+            [<a class="plink" href="https://github.com/horseee/LLM-Pruner" target="_blank">code</a>] 
+            <div class="link2">
+                [<a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()">abstract</a>]
+                <div class="abstract"  style="overflow: hidden; display: none;">  
+                    <p> Large language models (LLMs) have shown remarkable capabilities in language understanding and generation. However, such impressive capability typically comes with a substantial model size, which presents significant challenges in both the deployment, inference, and training stages. With LLM being a general-purpose task solver, we explore its compression in a task-agnostic manner, which aims to preserve the multi-task solving and language generation ability of the original LLM. One challenge to achieving this is the enormous size of the training corpus of LLM, which makes both data transfer and model post-training over-burdensome. Thus, we tackle the compression of LLMs within the bound of two constraints: being task-agnostic and minimizing the reliance on the original training dataset. Our method, named LLM-Pruner, adopts structural pruning that selectively removes non-critical coupled structures based on gradient information, maximally preserving the majority of the LLM's functionality. To this end, the performance of pruned models can be efficiently recovered through tuning techniques, LoRA, in merely 3 hours, requiring only 50K data. We validate the LLM-Pruner on three LLMs, including LLaMA, Vicuna, and ChatGLM, and demonstrate that the compressed models still exhibit satisfactory capabilities in zero-shot classification and generation.</p>
+                </div>
+            </div> 
+        </dd>
+    </dl>
+</div>
+
+<div class="publication">
+    <dl class="description">
+        <dt class="ptitle"></dt>
+        <dd>- Gongfan Fang, <b>Xinyin Ma</b>, Mingli Song, Michael Bi Mi, Xinchao Wang<br></dd>
+        <dd>- </dd>
+        <dd>
+            [<a class="plink" href="https://arxiv.org/abs/2301.12900" target="_blank">paper</a>]
+            [<a class="plink" href="https://github.com/VainF/Torch-Pruning" target="_blank">code</a>] 
+            <div class="link2">
+                [<a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()">abstract</a>]
+                <div class="abstract"  style="overflow: hidden; display: none;">  
+                    <p>  Structural pruning enables model acceleration by removing structurally-grouped parameters from neural networks. However, the parameter-grouping patterns vary widely across different models, making architecture-specific pruners, which rely on manually-designed grouping schemes, non-generalizable to new architectures. In this work, we study a highly-challenging yet barely-explored task, any structural pruning, to tackle general structural pruning of arbitrary architecture like CNNs, RNNs, GNNs and Transformers. The most prominent obstacle towards this goal lies in the structural coupling, which not only forces different layers to be pruned simultaneously, but also expects all removed parameters to be consistently unimportant, thereby avoiding structural issues and significant performance degradation after pruning. To address this problem, we propose a general and fully automatic method, Dependency Graph(DepGraph), to explicitly model the dependency between layers and comprehensively group coupled parameters for pruning. In this work, we extensively evaluate our method on several architectures and tasks, including ResNe(X)t, DenseNet, MobileNet and Vision transformer for images, GAT for graph, DGCNN for 3D point cloud, alongside LSTM for language, and demonstrate that, even with a simple norm-based criterion, the proposed method consistently yields gratifying performances. </p>
+                </div>
+            </div> 
+        </dd>
+    </dl>
+</div>
+
+<div class="publication">
+    <dl class="description">
         <dt class="ptitle">Prompting to distill: Boosting Data-Free Knowledge Distillation via Reinforced Prompt</dt>
         <dd>- <b>Xinyin Ma</b>, Xinchao Wang, Gongfan Fang, Yongliang Shen, Weiming Lu <br></dd>
         <dd>- The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence (IJCAI-ECAI 22), Oral (short presentation)</dd>

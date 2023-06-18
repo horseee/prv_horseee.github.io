@@ -18,7 +18,7 @@ I'm currently conducting some research in efficient learning, including
 
 Updates
 =====
-* 2023.5.22: Release LLM-Pruner, the first structural pruning work of LLM. See our paper and code!
+* 2023.5.22: Release LLM-Pruner, the first structural pruning work of LLM. See our [paper](https://arxiv.org/abs/2305.11627) and [code](https://github.com/horseee/LLM-Pruner)!
 * 2023.2.28: One paper 'DepGraph: Towards Any Structural Pruning' accepted by CVPR2023.
 * 2022.4.21: One paper accepted by IJCAI2022.
 * 2022.3.31: Obtain my master degree from ZJU.
