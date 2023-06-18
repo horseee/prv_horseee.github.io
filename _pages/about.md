@@ -18,7 +18,7 @@ I'm currently conducting some research in efficient learning, including
 
 Updates
 =====
-* 2023.5.22: Release LLM-Pruner:llama:, the first structural pruning work of LLM. See our [paper](https://arxiv.org/abs/2305.11627) and [code](https://github.com/horseee/LLM-Pruner)!
+* 2023.5.22: Release LLM-Pruner :llama: , the first structural pruning work of LLM. See our [paper](https://arxiv.org/abs/2305.11627) and [code](https://github.com/horseee/LLM-Pruner)!
 * 2023.2.28: One paper 'DepGraph: Towards Any Structural Pruning' accepted by CVPR‘23.
 * 2022.4.21: One paper 'Prompting to distill: Boosting Data-Free Knowledge Distillation via Reinforced Prompt' accepted by IJCAI’22.
 * 2022.3.31: Obtain my master degree from ZJU.
@@ -30,7 +30,6 @@ Education
 * B.S. in Software Engineering, Chu Kochen Honors College, Zhejiang University, 2015.9 - 2019.6
 
 Some of the scholarships I have earned:
-* As a master student: Outstanding Graduate(2022), Tecent Scholarship(2021), CETC28 Scholarship(2021), Huawei Elite Scholarship(2020), Shenzhen Stock Exchange Scholarship(2020), Award of Honor for Graduate(2021, 2020)
-* As a bachelor student: Outstanding Engineer Scholarship (2018), Outstanding Student of Zhejiang University (2018, 2017, 2016),
-Second-Class Academic Scholarship of Zhejiang University (2017, 2016), Second Class Scholarship of National Talent Training Base (2017), CASC Second Class Scholarship (2016)
+* During 2019-2022(M.S.): Outstanding Graduate(2022), Tecent Scholarship(2021), CETC28 Scholarship(2021), Huawei Elite Scholarship(2020), Shenzhen Stock Exchange Scholarship(2020), Award of Honor for Graduate(2021, 2020)
+* During 2015-2019(B.S.): Outstanding Engineer Scholarship (2018), Outstanding Student of Zhejiang University (2018, 2017, 2016), Second-Class Academic Scholarship of Zhejiang University (2017, 2016), Second Class Scholarship of National Talent Training Base (2017), CASC Second Class Scholarship (2016)
 
