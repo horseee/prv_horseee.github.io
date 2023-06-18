@@ -441,17 +441,56 @@ dd {
 }
 
 .publication {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-bottom: 1px #efefef solid;
+  padding: 2em 0 2em 0;
   border-left: 0px #808080 solid;
+  
+  .pub-image{
+      justify-content: center;
+      display: flex;
+      width: 100%;
+      order: 2;
+      img {
+          max-width: 400px;
+          box-shadow: 3px 3px 6px #888;
+          object-fit: cover;
+      }
+  }
+  
+  @include breakpoint($medium) {
+      .pub-image{
+          justify-content: left;
+          min-width: 200px;
+          max-width: 40%;
+          order: 1;
+      }
+      
+      .pub-description{
+          justify-content: left;
+          padding-left: 2em;
+          max-width: 60%;
+          order: 2;
+      }
+
+  }
+
+  .pub-description{
+    margin-left: 20px;
+    max-width: 100%;
+      order: 1;
+  }
+
+  .abstract{
+    color: gray;
+    font-size: 16px;
+  }
 }
 
-.description{
-  margin-left: 20px;
-}
-
-.abstract{
-  color: gray;
-  font-size: 16px;
-}
 
 .figure{
   float: right;

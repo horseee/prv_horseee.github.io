@@ -13,8 +13,15 @@ author_profile: true
 
 <script type="text/javascript" src="{{ base_path }}/assets/js/jquery-3.6.0.min.js"></script>
 
+
 <div class="publication">
-    <dl class="description">
+    <div class='pub-image'>
+        <div>
+            <div class="badge">Arxiv Preprint</div>
+            <img src='images/llm-pruner.png' width="100%">
+        </div>
+    </div>
+    <dl class="pub-description">
         <dt class="ptitle">LLM-Pruner: On the Structural Pruning of Large Language Models</dt>
         <dd>- <b>Xinyin Ma</b>, Gongfan Fang, Xinchao Wang<br></dd>
         <dd>
@@ -31,7 +38,7 @@ author_profile: true
 </div>
 
 <div class="publication">
-    <dl class="description">
+    <dl class="pub-description">
         <dt class="ptitle">DepGraph: Towards Any Structural Pruning</dt>
         <dd>- Gongfan Fang, <b>Xinyin Ma</b>, Mingli Song, Michael Bi Mi, Xinchao Wang<br></dd>
         <dd>- The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023</dd>
@@ -49,7 +56,7 @@ author_profile: true
 </div>
 
 <div class="publication">
-    <dl class="description">
+    <dl class="pub-description">
         <dt class="ptitle">Prompting to distill: Boosting Data-Free Knowledge Distillation via Reinforced Prompt</dt>
         <dd>- <b>Xinyin Ma</b>, Xinchao Wang, Gongfan Fang, Yongliang Shen, Weiming Lu <br></dd>
         <dd>- The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence (IJCAI-ECAI 22), Oral (short presentation)</dd>
@@ -66,7 +73,7 @@ author_profile: true
 </div>
 
 <div class="publication">
-    <dl class="description">
+    <dl class="pub-description">
         <dt class="ptitle">MuVER: Improving First-Stage Entity Retrieval with Multi-View Entity Representations</dt>
         <dd>- <b>Xinyin Ma</b>, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang, Weiming Lu <br></dd>
         <dd>- The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021, short paper)</dd>
@@ -84,7 +91,7 @@ author_profile: true
 </div>
 
 <div class="publication">
-    <dl class="description">
+    <dl class="pub-description">
         <dt class="ptitle">Adversarial Self-Supervised Data-Free Distillation for Text Classification</dt>
         <dd>- <b>Xinyin Ma</b>, Yongliang Shen, Gongfan Fang, Chen Chen, Chenghao Jia, Weiming Lu <br></dd>
         <dd>- The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)</dd>
@@ -102,7 +109,7 @@ author_profile: true
 </div>
 
 <div class="publication">
-    <dl class="description">
+    <dl class="pub-description">
         <dt class="ptitle">Locate and Label: A Two-stage Identifier for Nested Named Entity Recognition</dt>
         <dd>- Yongliang Shen, <b>Xinyin Ma</b>, Zeqi Tan, Shuai Zhang, Wen Wang, Weiming Lu <br></dd>
         <dd>- The 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL 2021)</dd>
@@ -120,7 +127,7 @@ author_profile: true
 </div>
 
 <div class="publication">
-    <dl class="description">
+    <dl class="pub-description">
         <dt class="ptitle">A Trigger-Sense Memory Flow Framework for Joint Entity and Relation Extraction</dt>
         <dd>- Yongliang Shen, <b>Xinyin Ma</b>, Yechun Tang, Weiming Lu <br></dd>
         <dd>- The Web Conference 2021 (WWW 2021)</dd>
@@ -138,7 +145,7 @@ author_profile: true
 </div>
 
 <div class="publication">
-    <dl class="description">
+    <dl class="pub-description">
         <dt class="ptitle">Multi-hop Reading Comprehension across Documents with Path-based Graph Convolutional Network</dt>
         <dd>- Zeyun Tang, Yongliang Shen, <b>Xinyin Ma</b>, Wei Xu, Jiale Yu, Weiming Lu <br></dd>
         <dd>- The Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI 2020)</dd>
@@ -156,7 +163,7 @@ author_profile: true
 </div>
 
 <div class="publication">
-    <dl class="description">
+    <dl class="pub-description">
         <dt class="ptitle">Enrich cross-lingual entity links for online wikis via multi-modal semantic matching</dt>
         <dd>- Weiming Lu, Peng Wang, <b>Xinyin Ma</b>, Wei Xu, Chen Chen <br></dd>
         <dd>- Information Processing & Management (IPM 2020)</dd>
