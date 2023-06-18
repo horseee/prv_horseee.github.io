@@ -12,5 +12,5 @@ author_profile: true
   - Finished two research projects: Multi-View Entity Representations for First-Stage Entity Retrieval (accepted by EMNLP2021) and Asynchronous Pre-trained Entity Representation for Entity Disambiguation. Extended MuVER on AliExpress category prediction task. 
     
 * Netease Thunderfire UX, Data Analyst Intern, 2018.07 - 2018.11
-  - Mentor: [Lei Xia](https://schedule.gdconf.com/speaker/xia-lei/61187)
+  - Mentor: [Lei Xia]()
   - Analyze user logs in Nishuihan using Hive/Impala. Migrate the data to support immediate querying. Design an automated data flow management system based on Airflow.

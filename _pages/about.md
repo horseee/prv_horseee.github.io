@@ -18,10 +18,11 @@ I'm currently conducting some research in efficient learning, including
 
 Updates
 =====
-:star2: 2023.5.22: Release LLM-Pruner :ram:, the first structural pruning work of LLM. See our [paper](https://arxiv.org/abs/2305.11627) and [code](https://github.com/horseee/LLM-Pruner)!  
-:star2: 2023.2.28: One paper 'DepGraph: Towards Any Structural Pruning' accepted by CVPR’23.  
-:star2: 2022.4.21: One paper 'Prompting to distill: Boosting Data-Free Knowledge Distillation via Reinforced Prompt' accepted by IJCAI’22.  
-:star2: 2022.3.31: Obtain my master degree from ZJU.  
+:star2: 05/22/2023: Release LLM-Pruner :ram:, the first structural pruning work of LLM. See our [paper](https://arxiv.org/abs/2305.11627) and [code](https://github.com/horseee/LLM-Pruner)!  
+:sunglasses: 02/28/2023: One paper 'DepGraph: Towards Any Structural Pruning' accepted by CVPR’23.  
+:flight_departure: 01/08/2022: Start my Ph.D. journey in NUS!
+:thinking: 04/21/2022: One paper 'Prompting to distill: Boosting Data-Free Knowledge Distillation via Reinforced Prompt' accepted by IJCAI’22.  
+:boat: 03/31/2022: Got my master degree from ZJU! 
 
 
 Education
