@@ -18,8 +18,8 @@ I'm currently conducting some research in efficient learning, including
 
 Updates
 =====
-* 2023.5.22: Release LLM-Pruner :llama: , the first structural pruning work of LLM. See our [paper](https://arxiv.org/abs/2305.11627) and [code](https://github.com/horseee/LLM-Pruner)!
-* 2023.2.28: One paper 'DepGraph: Towards Any Structural Pruning' accepted by CVPR‘23.
+* 2023.5.22: Release LLM-Pruner :ram:, the first structural pruning work of LLM. See our [paper](https://arxiv.org/abs/2305.11627) and [code](https://github.com/horseee/LLM-Pruner)!
+* 2023.2.28: One paper 'DepGraph: Towards Any Structural Pruning' accepted by CVPR’23.
 * 2022.4.21: One paper 'Prompting to distill: Boosting Data-Free Knowledge Distillation via Reinforced Prompt' accepted by IJCAI’22.
 * 2022.3.31: Obtain my master degree from ZJU.
 
