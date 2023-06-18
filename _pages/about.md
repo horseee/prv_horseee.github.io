@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to Xinyin Ma(马欣尹)'s website :laughing:!  
+Hi there! Welcome to Xinyin Ma(马欣尹)'s website :laughing:!  
 I am currently a Ph.D student in [Language and Vision Lab @ NUS](http://www.lv-nus.org/) from August 2022, advised by [Prof.Xinchao Wang](https://sites.google.com/site/sitexinchaowang/). Previously I obtained my master in computer science from Zhejiang University where I was advised by [Prof.Weiming Lu](https://scholar.google.co.id/citations?hl=no&user=H42slBQAAAAJ). I did a bachelor in software engineering also in Zhejiang University and got the honor degree from Chu Kochen Honors College. 
 
 I'm currently conducting some research in efficient learning, including 
