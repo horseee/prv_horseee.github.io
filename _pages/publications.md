@@ -18,7 +18,7 @@ author_profile: true
     <div class='pub-image'>
         <div>
             <div class="badge">Arxiv Preprint</div>
-            <img src='images/llm-pruner.png' width="100%">
+            <img src='llm-pruner.png' width="100%">
         </div>
     </div>
     <dl class="pub-description">

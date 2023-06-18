@@ -452,7 +452,6 @@ dd {
   .pub-image{
       justify-content: center;
       display: flex;
-      width: 100%;
       order: 2;
       img {
           max-width: 400px;
@@ -480,7 +479,7 @@ dd {
 
   .pub-description{
     margin-left: 20px;
-    max-width: 100%;
+    max-width: 70%;
       order: 1;
   }
 
