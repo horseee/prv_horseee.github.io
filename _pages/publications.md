@@ -17,8 +17,8 @@ author_profile: true
 <div class="publication">
     <div class='pub-image'>
         <div>
-            <div class="badge">Arxiv Preprint</div>
-            <img src='https://horseee.github.io/images/llm-pruner.png' width="100%">
+            <img class="badge">https://img.shields.io/badge/Preprint-Arxiv-blue</img>
+            <img src='https://github.com/horseee/LLM-Pruner/blob/main/figures/logo.png' width="100%">
         </div>
     </div>
     <dl class="pub-description">
@@ -40,7 +40,7 @@ author_profile: true
 <div class="publication">
     <div class='pub-image'>
         <div>
-            <div class="badge">Arxiv Preprint</div>
+            <img class="badge">Arxiv Preprint</img>
             <img src='https://horseee.github.io/images/Depgraph.png' width="100%">
         </div>
     </div>  
@@ -64,7 +64,7 @@ author_profile: true
 <div class="publication">
     <div class='pub-image'>
         <div>
-            <div class="badge">Arxiv Preprint</div>
+            <img class="badge">Arxiv Preprint</img>
             <img src='https://horseee.github.io/images/PromptKD.png' width="100%">
         </div>
     </div>  
@@ -87,7 +87,7 @@ author_profile: true
 <div class="publication">
     <div class='pub-image'>
         <div>
-            <div class="badge">Arxiv Preprint</div>
+            <img class="badge">Arxiv Preprint</img>
             <img src='https://horseee.github.io/images/MuVER.png' width="100%">
         </div>
     </div>  
@@ -111,7 +111,7 @@ author_profile: true
 <div class="publication">
     <div class='pub-image'>
         <div>
-            <div class="badge">Arxiv Preprint</div>
+            <img class="badge">Arxiv Preprint</img>
             <img src='https://horseee.github.io/images/ASDFD.png' width="100%">
         </div>
     </div>  
@@ -135,7 +135,7 @@ author_profile: true
 <div class="publication">
     <div class='pub-image'>
         <div>
-            <div class="badge">Arxiv Preprint</div>
+            <img class="badge">Arxiv Preprint</img>
             <img src='https://horseee.github.io/images/LocateLabel.png' width="100%">
         </div>
     </div>  
@@ -159,7 +159,7 @@ author_profile: true
 <div class="publication">
     <div class='pub-image'>
         <div>
-            <div class="badge">Arxiv Preprint</div>
+            <img class="badge">Arxiv Preprint</img>
             <img src='https://horseee.github.io/images/Trigger.png' width="100%">
         </div>
     </div>  
@@ -183,7 +183,7 @@ author_profile: true
 <div class="publication">
     <div class='pub-image'>
         <div>
-            <div class="badge">Arxiv Preprint</div>
+            <img class="badge">Arxiv Preprint</img>
             <img src='https://horseee.github.io/images/Multihop.png' width="100%">
         </div>
     </div>  
@@ -207,7 +207,7 @@ author_profile: true
 <div class="publication">
     <div class='pub-image'>
         <div>
-            <div class="badge">Arxiv Preprint</div>
+            <img class="badge">Arxiv Preprint</img>
             <img src='https://horseee.github.io/images/Trigger.png' width="100%">
         </div>
     </div>  
