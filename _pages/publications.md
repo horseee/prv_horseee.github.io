@@ -19,15 +19,13 @@ author_profile: true
         <dd>- <b>Xinyin Ma</b>, Xinchao Wang, Gongfan Fang, Yongliang Shen, Weiming Lu <br></dd>
         <dd>- The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence (IJCAI-ECAI 22), Oral (short presentation)</dd>
         <dd>
-            [<a class="unknownlink" target="_blank">paper</a>]
-            [<a class="unknownlink" target="_blank">code</a>]
+            [<a class="plink" href="https://www.ijcai.org/proceedings/2022/0596.pdf" target="_blank">paper</a>]
             <div class="link2">
                 [<a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()">abstract</a>]
                 <div class="abstract"  style="overflow: hidden; display: none;">  
                     <p> Data-free knowledge distillation (DFKD) conducts knowledge distillation via eliminating the dependence of original training data, and has recently achieved impressive results in accelerating pre-trained language models. At the heart of DFKD is toreconstruct a synthetic dataset by invertingthe parameters of the uncompressed model. Prior DFKD approaches, however, havelargely relied on hand-crafted priors of the target data distribution for the reconstruction, which can be inevitably biased and often incompetent to capture the intrinsic distributions. To address this problem, we propose a prompt-based method, termed as PromptDFD, that allows us to take advantage of learned language priors, which effectively harmonizes the synthetic sentences to be semantically and grammatically correct. Specifically, PromptDFD leverages a pre-trained generative model to provide language priors and introduces a reinforced topic prompter to control data synthesis, making the generated samples thematically relevant and  semantically plausible, and thus friendly to downstream tasks. As shown in our experiments, the proposed method substantially improves the synthesis quality and achieves considerable improvements on distillation performance. In some cases, PromptDFD even gives rise to results on par with those from the data-driven knowledge distillation with access to the original training data. </p>
                 </div>
             </div> 
-            (Note: The paper and the code will be released soon) 
         </dd>
     </dl>
 </div>

@@ -9,14 +9,19 @@ redirect_from:
 ---
 
 Hi! Welcome to Xinyin Ma(马欣尹)'s website :laughing:!  
-I am currently a Ph.D student in [Language and Vision Lab @ NUS](http://www.lv-nus.org/) from August 2022, under the supervision of  [Prof.Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)!
-I graduted from [DCD Lab @ ZJU]() and obtained my master/bachelor degree, advised by [Prof.Weiming Lu](https://scholar.google.co.id/citations?hl=no&user=H42slBQAAAAJ). My major is computer science and is currently conducting some research in Natural Language Processing and Model Compression. 
+I am currently a Ph.D student in [Language and Vision Lab @ NUS](http://www.lv-nus.org/) from August 2022, advised by [Prof.Xinchao Wang](https://sites.google.com/site/sitexinchaowang/). Previously I obtained my master in computer science from Zhejiang University where I was advised by [Prof.Weiming Lu](https://scholar.google.co.id/citations?hl=no&user=H42slBQAAAAJ). I did a bachelor in software engineering also in Zhejiang University and got the honor degree from Chu Kochen Honors College. 
 
+I'm currently conducting some research in efficient learning, including 
+* The efficiency of the large lanaguage model
+* The acceleration of training: dataset distillation and coreset.
+* Compression under low-resource setting. 
 
 Updates
 =====
-* 2022.4.21: One paper accepted by IJCAI2022
-* 2022.3.31: Obtain my master degree from ZJU!
+* 2023.5.22: Release LLM-Pruner, the first structural pruning work of LLM. See our paper and code!
+* 2023.2.28: One paper 'DepGraph: Towards Any Structural Pruning' accepted by CVPR2023.
+* 2022.4.21: One paper accepted by IJCAI2022.
+* 2022.3.31: Obtain my master degree from ZJU.
 
 
 Education
