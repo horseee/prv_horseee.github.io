@@ -15,9 +15,8 @@ author_profile: true
 
 <div class="publication">
     <dl class="description">
-        <dt class="ptitle"></dt>
+        <dt class="ptitle">LLM-Pruner: On the Structural Pruning of Large Language Models</dt>
         <dd>- <b>Xinyin Ma</b>, Gongfan Fang, Xinchao Wang<br></dd>
-        <dd>- </dd>
         <dd>
             [<a class="plink" href="https://arxiv.org/abs/2305.11627" target="_blank">paper</a>]
             [<a class="plink" href="https://github.com/horseee/LLM-Pruner" target="_blank">code</a>] 
@@ -33,9 +32,9 @@ author_profile: true
 
 <div class="publication">
     <dl class="description">
-        <dt class="ptitle"></dt>
+        <dt class="ptitle">DepGraph: Towards Any Structural Pruning</dt>
         <dd>- Gongfan Fang, <b>Xinyin Ma</b>, Mingli Song, Michael Bi Mi, Xinchao Wang<br></dd>
-        <dd>- </dd>
+        <dd>- The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023</dd>
         <dd>
             [<a class="plink" href="https://arxiv.org/abs/2301.12900" target="_blank">paper</a>]
             [<a class="plink" href="https://github.com/VainF/Torch-Pruning" target="_blank">code</a>] 
