@@ -446,30 +446,35 @@ dd {
   align-items: center;
   flex-direction: row;
   flex-wrap: wrap;
-  padding: 2em 0 2em 0;
-  border-bottom: 1px #808080 solid;
+  padding: 1em 0 1em 0;
+  border-bottom: 1px solid rgba(222, 222, 222, .5);
   
   .pub-image{
       justify-content: center;
       display: flex;
       order: 2;
-      img {
+      .figure {
           box-shadow: 3px 3px 6px #888;
           object-fit: cover;
+      }
+
+      .label {
+          object-fit: cover;
+          padding-bottom: 1em;
       }
   }
   
   @include breakpoint($medium) {
       .pub-image{
           justify-content: left;
-          width: 15%;
+          width: 25%;
           order: 1;
       }
       
       .pub-description{
           justify-content: left;
           padding-left: 2em;
-          max-width: 60%;
+          max-width: 70%;
           order: 2;
       }
 

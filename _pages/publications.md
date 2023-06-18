@@ -18,7 +18,7 @@ author_profile: true
     <div class='pub-image'>
         <div>
             <img src="https://img.shields.io/badge/Preprint-Arxiv-blue">
-            <img src='https://github.com/horseee/LLM-Pruner/blob/main/figures/logo.png' width="100%">
+            <img src='https://horseee.github.io/images/llm-pruner.png' width="100%">
         </div>
     </div>
     <dl class="pub-description">
